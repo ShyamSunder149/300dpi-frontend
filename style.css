@@ -255,6 +255,9 @@ h2 {
     .header ul {
         background-color: #fff;
     }
+    .events {
+        padding: 15px;
+    }
     .header li a {
         padding: 15px;
         border-bottom: 1px dotted #ddd;
